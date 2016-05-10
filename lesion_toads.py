@@ -63,8 +63,6 @@ def lesion_toads(T1_image, FLAIR_image):
         os.makedirs(toads_directory)
 
 
-    
-
     # options
     lesion_toads = developer.MedicAlgorithmLesionToads()
     lesion_toads.inputs.inAtlas2 = atlas_lesions
@@ -96,7 +94,10 @@ def lesion_toads(T1_image, FLAIR_image):
     
 
         
-
+def get_help():
+    lesion_toads = developer.MedicAlgorithmLesionToads()
+    print(lesion_toads.help())
+    
     
     
 
