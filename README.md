@@ -24,7 +24,7 @@ PLUGINS=/home/ThisUser/mipav/plugins
 
 So far, the implementation is simple. Just run the method using the provided function. Only the T1 and FLAIR images are available as options. The rest of parameters are run with default values.
 
-```
+```python
 from lesion_toads import *
 import os
 
