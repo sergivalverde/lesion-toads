@@ -4,7 +4,7 @@
 
 ## Install 
 
-- This interface is based on [Nypipe](http://www.mit.edu/~satra/nipype-nightly/index.html). Follow the instructions of the authors [webpage](http://www.mit.edu/~satra/nipype-nightly/users/install.html).
+- This interface is based on [Nipype](http://www.mit.edu/~satra/nipype-nightly/index.html). Follow the instructions of the authors [webpage](http://www.mit.edu/~satra/nipype-nightly/users/install.html).
 
 - Lesion-toads has to be installed following the provided [manual](http://www.iacl.ece.jhu.edu/~nshiee/research/LesionTOADS_manual.pdf), which is run from the [Mipav](http://mipav.cit.nih.gov/) environment. 
 
